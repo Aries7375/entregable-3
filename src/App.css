@@ -99,6 +99,7 @@ p {
   margin: auto;
   margin: 1.7rem 0 2rem 0;
   box-shadow: 0 0.2rem 0.4rem rgba(0, 0, 0, 0.075);
+  border-radius: 1rem;
   border: 0.1rem solid darkmagenta;
 }
 .location-info-data {
