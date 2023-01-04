@@ -45,7 +45,6 @@ const ResidentCard = ({ resident }) => {
       obj.fontSize = "1.1rem";
     return obj;
   };
-  console.log(citizen);
   return (
     <article className="citizen-card">
       <img src={citizen?.image} alt="" />
